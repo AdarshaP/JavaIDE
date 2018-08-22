@@ -54,5 +54,6 @@ In order to execute code submissions using Docker, source code files are written
 ### Communism
 
 ![alt text](https://raw.githubusercontent.com/AdarshaP/JavaIDE/master/communism.jpg)
+http://i.imgur.com/FcHRnQE.jpg?a
 
 
