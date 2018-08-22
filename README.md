@@ -51,6 +51,8 @@ In order to execute code submissions using Docker, source code files are written
  [ ] Allow Disabling of File Creation
  [ ] Set Container Recyling per Environment
 
+### Communism
 
+![alt text](https://raw.githubusercontent.com/AdarshaP/JavaIDE/master/communism.jpg)
 
 
