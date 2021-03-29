@@ -163,7 +163,8 @@ GEM
       turbolinks
     json (2.1.0)
     jwt (1.5.6)
-    kramdown (1.16.2)
+    kramdown (2.3.1)
+      rexml
     loofah (2.2.2)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
@@ -265,6 +266,7 @@ GEM
       http-cookie (>= 1.0.2, < 2.0)
       mime-types (>= 1.16, < 4.0)
       netrc (~> 0.8)
+    rexml (3.2.4)
     rspec (3.7.0)
       rspec-core (~> 3.7.0)
       rspec-expectations (~> 3.7.0)
